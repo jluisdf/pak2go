@@ -1,0 +1,33 @@
+.logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    margin: 16px 24px 16px 0;
+    background: rgba(255, 255, 255, 0.2);
+}
+.site-layout .site-layout-background {
+    background: #fff;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.login-form {
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    margin: -160px 0 0 -160px;
+    width: 320px;
+    height: 320px;
+    padding: 25px;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.08);
+}
+
+.mb-4{
+    margin-bottom: 24px;
+}
+
+.mt-2{
+    margin-top: 6px;
+}

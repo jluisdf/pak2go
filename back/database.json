@@ -1,0 +1,78 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "title uno",
+      "author": "Autor name",
+      "category": "category name"
+    },
+    {
+      "id": 2,
+      "title": "title dos",
+      "author": "Autor name",
+      "category": "category name"
+    },
+    {
+      "id": 3,
+      "title": "title tres",
+      "author": "Autor name",
+      "category": "category name"
+    },
+    {
+      "title": "El cuerpo del artista",
+      "author": "TRACEY WARR",
+      "category": "artes",
+      "id": 4
+    },
+    {
+      "title": "La historia del arte",
+      "author": "E. H. GOMBRICH",
+      "category": "artes",
+      "id": 5
+    },
+    {
+      "title": "Sistemas operativos modernos",
+      "author": "Tanenbaum; Andrew S.",
+      "category": "informatica",
+      "id": 6
+    }
+  ],
+  "users": [
+    {
+      "name": "JLuis Castillo",
+      "email": "skateluis27@hotmail.com",
+      "password": "12345678",
+      "profile": "admin",
+      "status": "true",
+      "id": 1
+    },
+    {
+      "name": "Abner",
+      "email": "abner@hotmail.com",
+      "password": "12345678",
+      "profile": "user",
+      "status": "true",
+      "id": 2
+    },
+    {
+      "name": "Marisela",
+      "email": "mary@hotmail.com",
+      "password": "12345678",
+      "profile": "admin",
+      "status": "true",
+      "id": 3
+    }
+  ],
+  "users2": [
+    {
+      "nombre": "JLuis Castillo",
+      "profile": "admin",
+      "id": 1
+    },
+    {
+      "nombre": "Usuario normal",
+      "profile": "user",
+      "id": 2
+    }
+  ]
+}
